@@ -9,6 +9,9 @@
     "build": "node ./node_modules/babel-cli/bin/babel.js -d dist/ todoist/ --source-maps",
     "prepublish": "npm run build"
   },
+  "files": [
+    "dist/**/*"
+  ],
   "jest": {
     "transform": {
       ".*": "<rootDir>/node_modules/babel-jest"
