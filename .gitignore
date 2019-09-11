@@ -1,5 +1,4 @@
 node_modules
-dist
 *.sublime-*
 .env
 .DS_Store
