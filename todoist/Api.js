@@ -3,7 +3,6 @@
  *   account and its data.
  * @author Cosmitar (JS Version)
  */
-// asd
 import Session from "./Session";
 // managers
 import ActivityManager from "./managers/ActivityManager";
